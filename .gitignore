@@ -1,0 +1,24 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.env
+.env.*
+.venv/
+venv/
+
+# Agent/runtime scratch
+.codex/
+.playwright-mcp/
+tmp/
+out/
+dist/
+
+# Logs
+*.log

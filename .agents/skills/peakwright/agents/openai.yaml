@@ -1,0 +1,7 @@
+interface:
+  display_name: "PeakWright"
+  short_description: "Elite training and meal planning"
+  default_prompt: "Use $peakwright to build a complete sport-specific training and meal plan with recovery and adjustment rules."
+
+policy:
+  allow_implicit_invocation: true
